@@ -9,7 +9,7 @@ import {
   type Trove,
   TroveStatus,
 } from "@/src/types";
-import { getCollToken, getPrefixedTroveId, parsePrefixedTroveId } from "@/src/utils/liquity";
+import { getCollToken, getPrefixedTroveId, parsePrefixedTroveId } from "@/src/utils/formatting";
 import { getPublicClient } from "@/src/utils/client";
 
 
