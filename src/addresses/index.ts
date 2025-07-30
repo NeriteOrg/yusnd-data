@@ -6,6 +6,7 @@ export const CONTRACT_ADDRESSES = {
   exchangeHelpers: "0xd24246104e2fbbfda5f938d1abdfbbd5a80bf45e",
   governance: "0x528b82f856e1d5ffab488c8c3eab6bf4ec374892",
   weth: "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+  yearnUSND: "0x252b965400862d94BDa35FeCF7Ee0f204a53Cc36",
   branches: [
     {
       collIndex: 0,

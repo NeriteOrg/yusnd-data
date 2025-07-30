@@ -14,6 +14,7 @@ import { SortedTroves } from "@/src/abi/SortedTroves";
 import { StabilityPool } from "@/src/abi/StabilityPool";
 import { TroveManager } from "@/src/abi/TroveManager";
 import { TroveNFT } from "@/src/abi/TroveNFT";
+import { YearnV3Vault } from "@/src/abi/YearnV3Vault";
 import { type Address, erc20Abi, zeroAddress } from "viem";
 import { CONTRACT_ADDRESSES } from "@/src/addresses";
 import type { CollIndex, CollateralSymbol } from "@/src/types";
@@ -26,6 +27,7 @@ const protocolAbis = {
   HintHelpers,
   MultiTroveGetter,
   WETH: erc20Abi,
+  YearnUSND: YearnV3Vault,
 } as const;
 
 const BorrowerOperationsErrorsAbi = BorrowerOperations.filter((f) => f.type === "error");
@@ -94,6 +96,7 @@ const CONTRACTS: Contracts = {
   HintHelpers: { abi: abis.HintHelpers, address: CONTRACT_ADDRESSES.hintHelpers as Address },
   MultiTroveGetter: { abi: abis.MultiTroveGetter, address: CONTRACT_ADDRESSES.multiTroveGetter as Address },
   WETH: { abi: abis.WETH, address: CONTRACT_ADDRESSES.weth as Address },
+  YearnUSND: { abi: abis.YearnUSND, address: CONTRACT_ADDRESSES.yearnUSND as Address },
 
   collaterals: CONTRACT_ADDRESSES.branches.map((branch) => ({
     collIndex: branch.collIndex as CollIndex,

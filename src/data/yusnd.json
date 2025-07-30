@@ -1,0 +1,36 @@
+{
+  "events": {
+    "StrategyChanged": {
+      "lastQueriedFromBlock": "",
+      "lastQueriedToBlock": "",
+      "logs": []
+    },
+    "StrategyReported": {
+      "lastQueriedFromBlock": "363240100",
+      "lastQueriedToBlock": "363240764",
+      "logs": [
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "750000000000000000000",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "362857698",
+          "transactionHash": "0x7cd772fc82db445088e6634a155103b46d69e4a1568cd740e6eb2b87ae37c7d6"
+        }
+      ]
+    }
+  },
+  "strategies": [
+    {
+      "address": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+      "sp": "0x9d9EF87a197c1bb3a97B2Ddc8716dF99079c125E",
+      "deposit": "8582725539454294583030"
+    }
+  ],
+  "updatedAt": "2025-07-30T19:03:28.462Z"
+}
