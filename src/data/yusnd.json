@@ -6,8 +6,8 @@
       "logs": []
     },
     "StrategyReported": {
-      "lastQueriedFromBlock": "363240100",
-      "lastQueriedToBlock": "363240764",
+      "lastQueriedFromBlock": "363240764",
+      "lastQueriedToBlock": "363738157",
       "logs": [
         {
           "args": {
@@ -29,8 +29,8 @@
     {
       "address": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
       "sp": "0x9d9EF87a197c1bb3a97B2Ddc8716dF99079c125E",
-      "deposit": "8582725539454294583030"
+      "deposit": "11588304812975014806129"
     }
   ],
-  "updatedAt": "2025-07-30T19:03:28.462Z"
+  "updatedAt": "2025-08-01T05:33:39.753Z"
 }
