@@ -6,8 +6,8 @@
       "logs": []
     },
     "StrategyReported": {
-      "lastQueriedFromBlock": "363738157",
-      "lastQueriedToBlock": "365953185",
+      "lastQueriedFromBlock": "365953185",
+      "lastQueriedToBlock": "372916398",
       "logs": [
         {
           "args": {
@@ -112,6 +112,981 @@
           },
           "blockNumber": "365937828",
           "transactionHash": "0xf7c567154cc09085e6495cbf9e875dae8e9650fdab371389e4fc6ee29230951f"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "122466554277181206193005",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "366035111",
+          "transactionHash": "0x46755640067e83195e2f80b4f471de0e58d29aed75db92d299d144e80d6e4c9b"
+        },
+        {
+          "args": {
+            "strategy": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "20770327605409932570333",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "366041137",
+          "transactionHash": "0xe24be9d8bdc24a69c97012146513b2d2769f47284e6f94d9793063fc62db0a25"
+        },
+        {
+          "args": {
+            "strategy": "0x013a32B271fA2e51D685CCbEc5493b02162075A2",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "2645277572387114053768",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "366041147",
+          "transactionHash": "0x8344163350cb6ef505247347b4be0a88bca715ab793d3606294db4c8c4263568"
+        },
+        {
+          "args": {
+            "strategy": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "55354882533285905199238",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "366041151",
+          "transactionHash": "0xcae1c3ca38da0c22cc5633803c9b4299b9c3c86346ccc102f71f6597bda09a20"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "423622233516716381",
+            "loss": "0",
+            "current_debt": "67369443191652059535485",
+            "protocol_fees": "0",
+            "total_fees": "42362223351671638",
+            "total_refunds": "0"
+          },
+          "blockNumber": "366382054",
+          "transactionHash": "0x98460a411528a92760414e839eafa8739fd941671d4505bae1624aef30930f5f"
+        },
+        {
+          "args": {
+            "strategy": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+            "gain": "3179875318454783716",
+            "loss": "0",
+            "current_debt": "46132563856798796858719",
+            "protocol_fees": "0",
+            "total_fees": "317987531845478371",
+            "total_refunds": "0"
+          },
+          "blockNumber": "366389362",
+          "transactionHash": "0xea5a448c97250fb88931a6382e20c2f0424571d8f93b90a3d186b455d81c8765"
+        },
+        {
+          "args": {
+            "strategy": "0x013a32B271fA2e51D685CCbEc5493b02162075A2",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "2645277572387114053768",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "366389368",
+          "transactionHash": "0xdc6011cb09bdd1bb179b30d96b1e8f32f619fc8cfe11b9df5d9bada01107b168"
+        },
+        {
+          "args": {
+            "strategy": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
+            "gain": "1523024720771367669",
+            "loss": "0",
+            "current_debt": "17316879793983634041960",
+            "protocol_fees": "0",
+            "total_fees": "152302472077136766",
+            "total_refunds": "0"
+          },
+          "blockNumber": "366389373",
+          "transactionHash": "0xad24b2e31a31788842604eeeaac116d56d039ac79e77f5d36232bc28046335c0"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "5458579719028685086",
+            "loss": "0",
+            "current_debt": "69113101279293724729343",
+            "protocol_fees": "0",
+            "total_fees": "545857971902868508",
+            "total_refunds": "0"
+          },
+          "blockNumber": "366729161",
+          "transactionHash": "0xfa8109c51d1bd5d3c666bf6931a684d52f9f2fd212c6509b4cb2731db54347c0"
+        },
+        {
+          "args": {
+            "strategy": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "17316879793983634041960",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "366736458",
+          "transactionHash": "0x7a2836f2edafea464bb63e689ea2df9db5b51037c8d856e4287b9ca9c3b47928"
+        },
+        {
+          "args": {
+            "strategy": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "46132563856798796858719",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "366736463",
+          "transactionHash": "0x7f3ccdca9e5d15f9ccc9f23842dc12e4c695077eb32a12c90e72e5935e08f5ad"
+        },
+        {
+          "args": {
+            "strategy": "0x013a32B271fA2e51D685CCbEc5493b02162075A2",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "2645277572387114053768",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "366736468",
+          "transactionHash": "0x0807f7fa17a6f74967fe79cfbb41b2c5fd8e6b1e02f62363edc6000928504bb5"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "21511909741183576964083",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "366779755",
+          "transactionHash": "0x5b93eb4aa157552ff4e4e2c3b965447d07a16eea975fb080dc985d1f56d08ad2"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "9192304166237603807",
+            "loss": "0",
+            "current_debt": "68064521378899105544179",
+            "protocol_fees": "0",
+            "total_fees": "919230416623760380",
+            "total_refunds": "0"
+          },
+          "blockNumber": "367078995",
+          "transactionHash": "0xaf732342f09b847b54213d9ec7690149a6e0acfc1ff8d90c2849b322209aa228"
+        },
+        {
+          "args": {
+            "strategy": "0x013a32B271fA2e51D685CCbEc5493b02162075A2",
+            "gain": "794042769154765632",
+            "loss": "0",
+            "current_debt": "1636808695048960328805",
+            "protocol_fees": "0",
+            "total_fees": "79404276915476563",
+            "total_refunds": "0"
+          },
+          "blockNumber": "367083857",
+          "transactionHash": "0x146f499e6b184456004f82017849dc7ec3ceed2cd71f8f30f52ddb050ec94216"
+        },
+        {
+          "args": {
+            "strategy": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
+            "gain": "4090480946348395389",
+            "loss": "0",
+            "current_debt": "14052183238952282115534",
+            "protocol_fees": "0",
+            "total_fees": "409048094634839538",
+            "total_refunds": "0"
+          },
+          "blockNumber": "367083863",
+          "transactionHash": "0x8246e1fd4886851e4d6c9de6fc35c188b89b99590ace5b84a42c5f272678e4a1"
+        },
+        {
+          "args": {
+            "strategy": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "46132563856798796858719",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "367083867",
+          "transactionHash": "0x6439fdc775d5074a4a4046c92172156ae25da6def43847e95bcec7e5f153e11f"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "21511909741183576964083",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "367127596",
+          "transactionHash": "0x8bb6ed2e8a25bb18922943ef95a085e0856754a8f3932105cc26060900a66b18"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "11907243750885992370",
+            "loss": "0",
+            "current_debt": "59994458448490700155364",
+            "protocol_fees": "0",
+            "total_fees": "1190724375088599237",
+            "total_refunds": "0"
+          },
+          "blockNumber": "367427704",
+          "transactionHash": "0x41911bc8aebc6a8b66518cefa5d8aa6ca417a7efb4d651d92643797548194f1f"
+        },
+        {
+          "args": {
+            "strategy": "0x013a32B271fA2e51D685CCbEc5493b02162075A2",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "1636808695048960328805",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "367432686",
+          "transactionHash": "0x44b8d0c4f5b6320cb8ae096a7ff3e8a8c3a130e7aff5210a72eb88ea56b4aa81"
+        },
+        {
+          "args": {
+            "strategy": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "46132563856798796858719",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "367432691",
+          "transactionHash": "0xac0ae2eacacd21a82b27bba5dca8c00ac361da80b4a034dc6aa5636c22496417"
+        },
+        {
+          "args": {
+            "strategy": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
+            "gain": "4189864729375012409",
+            "loss": "0",
+            "current_debt": "19320129088369147868049",
+            "protocol_fees": "0",
+            "total_fees": "418986472937501240",
+            "total_refunds": "0"
+          },
+          "blockNumber": "367432696",
+          "transactionHash": "0x71087e64fa74de8363b9bd493c612a684b5c23272d6e3b91f88539c3d96c7a93"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "4451241211676749774",
+            "loss": "0",
+            "current_debt": "28460177535781867500600",
+            "protocol_fees": "0",
+            "total_fees": "445124121167674977",
+            "total_refunds": "0"
+          },
+          "blockNumber": "367474912",
+          "transactionHash": "0xc42046082ca849bec2846f26856737ea60f3f5164985f56b2816bd7c6a3504a5"
+        },
+        {
+          "args": {
+            "strategy": "0x013a32B271fA2e51D685CCbEc5493b02162075A2",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "1636808695048960328805",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "367728205",
+          "transactionHash": "0x14312a79804d40fc86128ca7b02fcd59c453927e4e5a7d6c40abd1553ed0cccb"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "6896680141361121225",
+            "loss": "0",
+            "current_debt": "72307381268702171797421",
+            "protocol_fees": "0",
+            "total_fees": "689668014136112122",
+            "total_refunds": "0"
+          },
+          "blockNumber": "367773946",
+          "transactionHash": "0xe93b09f61129968c77ee92f13297d07a7e4bce9348d4767b69d9a7238c4bd8e3"
+        },
+        {
+          "args": {
+            "strategy": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "46132563856798796858719",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "367781238",
+          "transactionHash": "0xbecb9e7d0a52f579273d2dfda3566c6a9d78e8a8188ae6172c681beff3a93302"
+        },
+        {
+          "args": {
+            "strategy": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "19320129088369147868049",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "367781243",
+          "transactionHash": "0x08789efd2e330437f8c61ae469feb2524cd4efd53f42ddbe24eb33d1b9297622"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "3392442151337051751",
+            "loss": "0",
+            "current_debt": "30100378672982164881156",
+            "protocol_fees": "0",
+            "total_fees": "339244215133705175",
+            "total_refunds": "0"
+          },
+          "blockNumber": "367822530",
+          "transactionHash": "0x1c8376b98769d59f80ec0d10a4d416a6286e466a902efba3d5bc02c4a5c76842"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "991878326782826956",
+            "loss": "0",
+            "current_debt": "71762495995806203984404",
+            "protocol_fees": "0",
+            "total_fees": "99187832678282695",
+            "total_refunds": "0"
+          },
+          "blockNumber": "368124461",
+          "transactionHash": "0xa02bcb8b5b98de76384d21001e77f92be03ffa2bc94b798adb950b297617cb48"
+        },
+        {
+          "args": {
+            "strategy": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "46132563856798796858719",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "368131749",
+          "transactionHash": "0xc8f1c67c3c7882cbf1f37bf902be82f83341eec352c86e490257fc584732b06d"
+        },
+        {
+          "args": {
+            "strategy": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "19320129088369147868049",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "368131756",
+          "transactionHash": "0x1ce4d2923c40c0b045129ef91b2a5b5f951026f7e30fd43d56b1e7d009f133b6"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "30100378672982164881156",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "368169333",
+          "transactionHash": "0xe97210c842f7cb1e838f976a67ee2d22d07dae00b7cd86acac789386a1df2ec6"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "21091233073514251673",
+            "loss": "0",
+            "current_debt": "75911792259772829126588",
+            "protocol_fees": "0",
+            "total_fees": "2109123307351425167",
+            "total_refunds": "0"
+          },
+          "blockNumber": "368471247",
+          "transactionHash": "0x60f8dd791e103f3bbccf4c76c96cfe2c837e7e0333c40cf3fc2bbaa127b000d3"
+        },
+        {
+          "args": {
+            "strategy": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "19320129088369147868049",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "368478537",
+          "transactionHash": "0xf0290ead1072221326dee6c1f1b296220a80568c4932da1090b4c875fe482621"
+        },
+        {
+          "args": {
+            "strategy": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+            "gain": "33210087754885259972",
+            "loss": "0",
+            "current_debt": "38318760047194057684352",
+            "protocol_fees": "0",
+            "total_fees": "3321008775488525997",
+            "total_refunds": "0"
+          },
+          "blockNumber": "368478543",
+          "transactionHash": "0x222947d6e15152dee102afaa51deccfc5ecdbbb7d8536b621403d7d49130b8c6"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "30100378672982164881156",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "368517444",
+          "transactionHash": "0x387acf5a96ae8b5f373e12829cfe1095bf279805d570d231b5b2043b0163f013"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "8291154408991081319",
+            "loss": "0",
+            "current_debt": "74570529100717073666217",
+            "protocol_fees": "0",
+            "total_fees": "829115440899108131",
+            "total_refunds": "0"
+          },
+          "blockNumber": "368818947",
+          "transactionHash": "0xabb3713a18dce0a5e5b0ea71448d240f7ebc6078be43a77174ae11deb965eb30"
+        },
+        {
+          "args": {
+            "strategy": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "19320129088369147868049",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "368826233",
+          "transactionHash": "0x6ec475039625befd3d000bf77e9d05e8f023eaa33fff843cbffd1b9f5ab076a5"
+        },
+        {
+          "args": {
+            "strategy": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "38318760047194057684352",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "368826237",
+          "transactionHash": "0x2bd8ef95a8e3c0ecc437d1e318526aa23ddc6ad098d4d34e3c4d60330d720aea"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "30100378672982164881156",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "368865116",
+          "transactionHash": "0x60c8bf90b2d453abbc238f276c3cc37f118bd64b4c0f7dac1ec3e044774c6dbb"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "5076025980017335966",
+            "loss": "0",
+            "current_debt": "74575605126697091002183",
+            "protocol_fees": "0",
+            "total_fees": "507602598001733596",
+            "total_refunds": "0"
+          },
+          "blockNumber": "369169635",
+          "transactionHash": "0x12f52a951df0371ee854866f222a8b56b738a7a9ed56b5e1bc70b8fa0ff3835e"
+        },
+        {
+          "args": {
+            "strategy": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "38318760047194057684352",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "369174509",
+          "transactionHash": "0x138511b7a9d33b5414d08dcdf8ed848c8fe35ad589292980ede837cf60a5038c"
+        },
+        {
+          "args": {
+            "strategy": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "19320129088369147868049",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "369174514",
+          "transactionHash": "0xbafd72c1a9a3aecd2138374ba1c25983b82793291ec9e137c510da9fe3a5bf6d"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "30100378672982164881156",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "369213359",
+          "transactionHash": "0x177f361761d2f480a3e752a79b99ff604443b5d37e06fe637a0de5445f272f82"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "74575605126697091002183",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "369517632",
+          "transactionHash": "0x81ae2e0984ac186a1db55297fa6b1d229cf164c42c78e58937e5a51c4253d47b"
+        },
+        {
+          "args": {
+            "strategy": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "19320129088369147868049",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "369522245",
+          "transactionHash": "0x65d761a6361c2b58a18251f2587c41e3caa5aee092299134ae4b5a7e04d3626e"
+        },
+        {
+          "args": {
+            "strategy": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "38318760047194057684352",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "369522250",
+          "transactionHash": "0xb04d478fd15f6babf245fb99c2c69dd4da8547d69bf77e03e510cd24b5b444ea"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "30100378672982164881156",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "369561076",
+          "transactionHash": "0x6a5743d429477048a7b8e7267782f4ecd1cf5d7d07cd2c2aeeed8fba59fb78b3"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "22461687359467246656",
+            "loss": "0",
+            "current_debt": "88637090892521700088695",
+            "protocol_fees": "0",
+            "total_fees": "2246168735946724665",
+            "total_refunds": "0"
+          },
+          "blockNumber": "369865319",
+          "transactionHash": "0xf6f88dcbde8c7e876457fbc0083439badb9de24e8b9c7dede04c40e5ac4c89f8"
+        },
+        {
+          "args": {
+            "strategy": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
+            "gain": "13564444001370014326",
+            "loss": "0",
+            "current_debt": "5894795922479135591888",
+            "protocol_fees": "0",
+            "total_fees": "1356444400137001432",
+            "total_refunds": "0"
+          },
+          "blockNumber": "369870191",
+          "transactionHash": "0x51cb358271ce5cdeb91305c9f3c10ef1385e5207c64ce55cc0c8923e35b58907"
+        },
+        {
+          "args": {
+            "strategy": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "38318760047194057684352",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "369870196",
+          "transactionHash": "0xf1bca28c9b65633746e65b9396cc5910d2f03990ac71aeb4a5e2bc4b2c8f2563"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "30100378672982164881156",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "369907613",
+          "transactionHash": "0x0169bbbd1b83de74aa9220ccf29320a386504449bed3270c1793e2ef70ba5ea3"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "3414081687846496128",
+            "loss": "0",
+            "current_debt": "88723409443988364749068",
+            "protocol_fees": "0",
+            "total_fees": "341408168784649612",
+            "total_refunds": "0"
+          },
+          "blockNumber": "370213439",
+          "transactionHash": "0x2cd719dda8cbdcb4c57b24a79933df540127a333dca67900ad2551fac96f0400"
+        },
+        {
+          "args": {
+            "strategy": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "38318760047194057684352",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "370218302",
+          "transactionHash": "0x7fae508e51611dd9a529b53b4be3e1d1f61563fd819cb7c9f02dd323c58ac1d7"
+        },
+        {
+          "args": {
+            "strategy": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "5894795922479135591888",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "370218306",
+          "transactionHash": "0x5a180a66dbf4fd59c89024055d673f39238f17bb0a3e55763e74c9142407cbb3"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "30100378672982164881156",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "370254877",
+          "transactionHash": "0xac986ce8f32a8c69a26ee374d5344dab38443ea3b4285c3f45fb1b1d486874fc"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "14624519393334274336",
+            "loss": "0",
+            "current_debt": "90277144415307170126371",
+            "protocol_fees": "0",
+            "total_fees": "1462451939333427433",
+            "total_refunds": "0"
+          },
+          "blockNumber": "370561271",
+          "transactionHash": "0x55b7b7b5afe6fe31318f34dea1c006d9804e5d1d750daab3a392a0697d0fc89a"
+        },
+        {
+          "args": {
+            "strategy": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "38318760047194057684352",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "370566135",
+          "transactionHash": "0x98b2a4c8545fb4c5299bc7a089d87353e4f543af17ec895e80ace74949a5bf68"
+        },
+        {
+          "args": {
+            "strategy": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "5894795922479135591888",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "370566140",
+          "transactionHash": "0x98fb2011892519027dd17097f927b5d3d7a4aee201aff573b2ab1287dbc39438"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "30100378672982164881156",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "370602785",
+          "transactionHash": "0x6d2975ab3d8bf5444b5a5ad98c3fb4e289e8ccf770425440d55b274743668481"
+        },
+        {
+          "args": {
+            "strategy": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
+            "gain": "1482431116618497614",
+            "loss": "0",
+            "current_debt": "3155445394456876490290",
+            "protocol_fees": "0",
+            "total_fees": "148243111661849761",
+            "total_refunds": "0"
+          },
+          "blockNumber": "370842944",
+          "transactionHash": "0x7c91a0cf7af6801e726dba57ebb1c516ea40c3d26f7c5a001af6325a3b60cb84"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "16290082266473441653",
+            "loss": "0",
+            "current_debt": "43333044576008853296755",
+            "protocol_fees": "0",
+            "total_fees": "1629008226647344165",
+            "total_refunds": "0"
+          },
+          "blockNumber": "370908061",
+          "transactionHash": "0xa5c2485dd4cfe8742cd1ed2d5bc8469070826b1152c252d5db7ce518fd3c4b59"
+        },
+        {
+          "args": {
+            "strategy": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+            "gain": "26258830910244245337",
+            "loss": "0",
+            "current_debt": "3590848551250480425425",
+            "protocol_fees": "0",
+            "total_fees": "2625883091024424533",
+            "total_refunds": "0"
+          },
+          "blockNumber": "370913375",
+          "transactionHash": "0x6739fb5ff7a110609d0ad4efeac02c34073c72b5c6407ebc8e066c98deac69f5"
+        },
+        {
+          "args": {
+            "strategy": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "3590848551250480425425",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "370930355",
+          "transactionHash": "0x7951235566ecf692713accfe718e6a1900c4ac2a9d45b215313f705b3bb340e1"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "56721637112045841579",
+            "loss": "0",
+            "current_debt": "40544254960524386051281",
+            "protocol_fees": "0",
+            "total_fees": "5672163711204584157",
+            "total_refunds": "0"
+          },
+          "blockNumber": "370949765",
+          "transactionHash": "0x45aec286cc6ae7e516b71e782e3f68fec844d0923932b79b34883251cce6190c"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "6311264863488946152",
+            "loss": "0",
+            "current_debt": "53166172400198934842684",
+            "protocol_fees": "0",
+            "total_fees": "631126486348894615",
+            "total_refunds": "0"
+          },
+          "blockNumber": "371255183",
+          "transactionHash": "0x9ac733b5c31ad914537359f032d0be16605fa99ae19cae1081e4aa36ad5edaee"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "745410834883605423",
+            "loss": "0",
+            "current_debt": "40545000371359269656704",
+            "protocol_fees": "0",
+            "total_fees": "74541083488360542",
+            "total_refunds": "0"
+          },
+          "blockNumber": "371296591",
+          "transactionHash": "0x72d25c25089858f9149fce2537f4dc651f224a4131862c1600deb22ddf4f25e3"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "8478335771101560912",
+            "loss": "0",
+            "current_debt": "59409730505671663937233",
+            "protocol_fees": "0",
+            "total_fees": "847833577110156091",
+            "total_refunds": "0"
+          },
+          "blockNumber": "371603514",
+          "transactionHash": "0xf06d3ab52fbebc54dcbf8ba371caa19b9d49083aa7ff82302b30fd45db0b4019"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "40545000371359269656704",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "371644775",
+          "transactionHash": "0x70f5027fb4fbd5ceab1065a458822ef4608e1968c4afdd3bf06bfeda6ed3e87e"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "2185932767686797624",
+            "loss": "0",
+            "current_debt": "59411916438439350734857",
+            "protocol_fees": "0",
+            "total_fees": "218593276768679762",
+            "total_refunds": "0"
+          },
+          "blockNumber": "371949845",
+          "transactionHash": "0x3846fb60a888c44355e8c603144c69e9023cf256623c2746dc1c85ee09507bf0"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "40545000371359269656704",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "371991757",
+          "transactionHash": "0xb411f7e26759f3c89685205c6f2684fd0670c4297b374f8e75c93ce1e77681e4"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "12256124418591224685",
+            "loss": "0",
+            "current_debt": "60571883983875079566396",
+            "protocol_fees": "0",
+            "total_fees": "1225612441859122468",
+            "total_refunds": "0"
+          },
+          "blockNumber": "372298583",
+          "transactionHash": "0xf1c49ae6b62986311006d0763705ae416d03169364138f91a1f772b93deab09e"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "40545000371359269656704",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "372342360",
+          "transactionHash": "0xa8ce20df6bfed47d18635ca7c2ce840378ee75c3cebbbd6735d156828d6c608f"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "7217901642424159147",
+            "loss": "0",
+            "current_debt": "60380006714928111509751",
+            "protocol_fees": "0",
+            "total_fees": "721790164242415914",
+            "total_refunds": "0"
+          },
+          "blockNumber": "372645542",
+          "transactionHash": "0x9dd166ffb9fea185362b62dc166806efa82bdbe322d78945aab079a6171e605c"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "40545000371359269656704",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "372690635",
+          "transactionHash": "0x3a833d6ed89769e968661a58b86ec6ce649afa5cf30082954664b25da37303df"
         }
       ]
     }
@@ -120,8 +1095,28 @@
     {
       "address": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
       "sp": "0x9d9EF87a197c1bb3a97B2Ddc8716dF99079c125E",
-      "deposit": "359733058713218016"
+      "deposit": "60707404314810161721097"
+    },
+    {
+      "address": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
+      "sp": "0x65b83dE0733e237dd3d49a4E9c2868B57ee7d9F0",
+      "deposit": "0"
+    },
+    {
+      "address": "0x013a32B271fA2e51D685CCbEc5493b02162075A2",
+      "sp": "0xb2C0460466c8d6384f52Cd29Db54Ee49D01eE84A",
+      "deposit": "0"
+    },
+    {
+      "address": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+      "sp": "0xcD94b16e9a126fe61c944b1DE024681fCfE05c4B",
+      "deposit": "154407047349532705"
+    },
+    {
+      "address": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+      "sp": "0x47Ae276a1cc751cE7B3034D9cBB8cD422968Ac35",
+      "deposit": "40545000371359269656704"
     }
   ],
-  "updatedAt": "2025-08-07T15:23:11.874Z"
+  "updatedAt": "2025-08-27T18:12:49.209Z"
 }
