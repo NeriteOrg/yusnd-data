@@ -6,8 +6,8 @@
       "logs": []
     },
     "StrategyReported": {
-      "lastQueriedFromBlock": "375000259",
-      "lastQueriedToBlock": "379771206",
+      "lastQueriedFromBlock": "379771206",
+      "lastQueriedToBlock": "383235487",
       "logs": [
         {
           "args": {
@@ -2036,6 +2036,136 @@
           },
           "blockNumber": "379630353",
           "transactionHash": "0xff40626babfcbf06a29ca841309148ea465c081ab2d1126664ce93bba421fe16"
+        },
+        {
+          "args": {
+            "strategy": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "1196081300661348445761",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "379871947",
+          "transactionHash": "0x950a6838d73b459e849206545928998e908d72248d1cdf0126bd9aba2f8ce513"
+        },
+        {
+          "args": {
+            "strategy": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "21998803751028228741295",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "379871952",
+          "transactionHash": "0x1e316b7d4dbd2ae3d2b827728082065c4fedcc1f58479752f7c4b0fe4c198da9"
+        },
+        {
+          "args": {
+            "strategy": "0xAe55FbdC3Cce38464e6A7F23d19A143898451105",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "1063146599032545280096",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "379871955",
+          "transactionHash": "0x9e984856804afa1553611f1f7c0d6da43fa28bb06249b8d3643eb438cd4b48e7"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "18302111301589947870",
+            "loss": "0",
+            "current_debt": "275407731321350468751609",
+            "protocol_fees": "0",
+            "total_fees": "1830211130158994787",
+            "total_refunds": "0"
+          },
+          "blockNumber": "379935285",
+          "transactionHash": "0x8850e63ffb201c25cdd8b7634f20c30f46d7311fc4655ff3b5fd8effc68a895f"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "128428659269105701014445",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "379976546",
+          "transactionHash": "0x5bbf74f9a809ff13a1b8d3352aeb2cec587164a239a2c64414f20172317936dd"
+        },
+        {
+          "args": {
+            "strategy": "0xAe55FbdC3Cce38464e6A7F23d19A143898451105",
+            "gain": "0",
+            "loss": "0",
+            "current_debt": "1063146599032545280096",
+            "protocol_fees": "0",
+            "total_fees": "0",
+            "total_refunds": "0"
+          },
+          "blockNumber": "380219162",
+          "transactionHash": "0x0461070af954234c9ec42dc019af3e75cc3917091b95a73a2a0c9ef2ef5cca48"
+        },
+        {
+          "args": {
+            "strategy": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
+            "gain": "1195241857010522629",
+            "loss": "0",
+            "current_debt": "21761569366237147707874",
+            "protocol_fees": "0",
+            "total_fees": "119524185701052262",
+            "total_refunds": "0"
+          },
+          "blockNumber": "380219167",
+          "transactionHash": "0x4d78d131f35cab75cb804b08ec36066656529495349bb7560a0db6f5ede10d69"
+        },
+        {
+          "args": {
+            "strategy": "0x533337c57dFA768F4B4827048b320aa78D909D30",
+            "gain": "20033203542385743923",
+            "loss": "0",
+            "current_debt": "51239896873428683228685",
+            "protocol_fees": "0",
+            "total_fees": "2003320354238574392",
+            "total_refunds": "0"
+          },
+          "blockNumber": "380219172",
+          "transactionHash": "0xf0ee3f3c3a23de54947cc50bd0655a50941a170b376c21f85cd7e98766d09aef"
+        },
+        {
+          "args": {
+            "strategy": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
+            "gain": "32703624593909124914",
+            "loss": "0",
+            "current_debt": "266597344550104829812218",
+            "protocol_fees": "0",
+            "total_fees": "3270362459390912491",
+            "total_refunds": "0"
+          },
+          "blockNumber": "380283060",
+          "transactionHash": "0x295a5bcc36005a01f8894b33e880340bf034ef65d08568b10db4703a44e36c39"
+        },
+        {
+          "args": {
+            "strategy": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
+            "gain": "295921925510782577532",
+            "loss": "0",
+            "current_debt": "133344911614236328551419",
+            "protocol_fees": "0",
+            "total_fees": "29592192551078257753",
+            "total_refunds": "0"
+          },
+          "blockNumber": "380323964",
+          "transactionHash": "0x04895524aaa57e9bd96b7a80b838d811e833ea30a277cb8c8f4637a722382dca"
         }
       ]
     }
@@ -2044,12 +2174,12 @@
     {
       "address": "0xe037A8F2Fa17293d94620c1846F84d047379660a",
       "sp": "0x9d9EF87a197c1bb3a97B2Ddc8716dF99079c125E",
-      "deposit": "265965830737984314661627"
+      "deposit": "299199893722378104030836"
     },
     {
       "address": "0x38Bcb6856AD0f887Fe05DBE341B8FBd9bBb65cE9",
       "sp": "0x65b83dE0733e237dd3d49a4E9c2868B57ee7d9F0",
-      "deposit": "1196081300661348445761"
+      "deposit": "18165216496099952422619"
     },
     {
       "address": "0x013a32B271fA2e51D685CCbEc5493b02162075A2",
@@ -2059,12 +2189,12 @@
     {
       "address": "0x533337c57dFA768F4B4827048b320aa78D909D30",
       "sp": "0xcD94b16e9a126fe61c944b1DE024681fCfE05c4B",
-      "deposit": "21998803751028228741295"
+      "deposit": "42692869226874507470421"
     },
     {
       "address": "0xDAbdD3BD55d55927847510703C0fd7Eb0Af98f52",
       "sp": "0x47Ae276a1cc751cE7B3034D9cBB8cD422968Ac35",
-      "deposit": "128428659269105701014445"
+      "deposit": "133344911614236328551419"
     },
     {
       "address": "0xAe55FbdC3Cce38464e6A7F23d19A143898451105",
@@ -2072,5 +2202,5 @@
       "deposit": "1063146599032545280096"
     }
   ],
-  "updatedAt": "2025-09-16T13:55:35.566Z"
+  "updatedAt": "2025-09-26T14:11:50.543Z"
 }
